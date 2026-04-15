@@ -1,2 +1,1 @@
-my skill are java, springboor,maven ,aws,mysql,jpa,hibernate,ci/cd,angular,typescript.and ai tools.
- 
+my skill are java, springboor,maven ,aws,mysql,jpa,hibernate,ci/cd,angular,typescript.and ai tools,firebase,ionic,angular material,git ,Linux,github,nginx. 
