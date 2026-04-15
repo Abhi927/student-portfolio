@@ -5,5 +5,5 @@ added a new file profile.html
 
 conflict2
 
-new change in main1
+new change in MAIN1
 
