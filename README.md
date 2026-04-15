@@ -6,4 +6,5 @@ added a new file profile.html
 conflict2
 
 new change in MAIN1
+changes in main2
 
